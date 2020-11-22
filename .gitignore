@@ -1,0 +1,3 @@
+*.o
+test_alloc
+test_ealloc
